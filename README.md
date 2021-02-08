@@ -10,6 +10,7 @@ This CLI application dynamically creates a profressional README & License file f
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Preview](#preview)
 * [License](#license)
 * [Questions](#questions)
 
