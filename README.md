@@ -25,6 +25,7 @@ Run `node index.js`, then the application will ask you a series of questions abo
 ## Preview
 
 ![](assets/README_Generator_Preview.gif)
+
 ![Video Link](https://www.youtube.com/watch?v=1cG4FZZoOgU)
 
 ## License
